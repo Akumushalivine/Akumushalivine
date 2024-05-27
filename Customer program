@@ -1,0 +1,4 @@
+class(customer)
+objects (local customer and international customer)
+objects data(account number,name, address, phone number,count)
+methods (deposit, withdraw, renew, check balance)
